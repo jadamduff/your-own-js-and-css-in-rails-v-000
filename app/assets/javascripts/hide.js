@@ -1,6 +1,6 @@
-function hideWhenClicked(el) {
+function hideWhenClicked() {
   console.log('worked');
-  $(el).hide();
+  $(this).hide();
 }
 
-$('#hide_this').on('click', hideWhenClicked(this));
+$('#hide_this').on('click', hideWhenClicked;
