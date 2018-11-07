@@ -1,5 +1,4 @@
 function hideWhenClicked() {
-  console.log('worked');
   $(this).hide();
 }
 
