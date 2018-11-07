@@ -3,4 +3,4 @@ function hideWhenClicked() {
   $(this).hide();
 }
 
-$('#hide_this').on('click', hideWhenClicked;
+$('#hide_this').on('click', hideWhenClicked);
